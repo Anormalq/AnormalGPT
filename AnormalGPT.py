@@ -6,11 +6,11 @@ import openai
 
 #Bot Api Token
 
-API_TOKEN = '6265571825:AAGzmoM0K4Q-5_b5XBv5wHwt6T5XVYVRzhg'
+API_TOKEN = 'Enter your telegram bot api token here '
 
 #Openai Api Key
 
-openai.api_key="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"
+openai.api_key="Enter your openai api token here"
 
 bot = telebot.TeleBot(API_TOKEN)
 
