@@ -6,7 +6,7 @@ Terminalinize Git Aşağıdaki Komutları Girin
 
 Şimdi Bot Dizinine Taşının
 
-`cd chatgpt-python-bot`
+`cd AnormalGPT`
 
 Paketleri Kur
 
