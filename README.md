@@ -1,4 +1,4 @@
-# AnormaGPT
+# AnormalGPT
 ChatGPT
 Terminalinize Git Aşağıdaki Komutları Girin
 
