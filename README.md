@@ -12,4 +12,8 @@ Paketleri Kur
 
 `pip install -r requirements.txt`
 
-Şimdi Çalıştırr
+Şimdi Çalıştır
+
+`python AnormalGPT.py`
+
+Bu İşlemi Tamamladıktan Sonra Botunuz Çalışacaktır
