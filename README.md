@@ -2,7 +2,7 @@
 ChatGPT
 Terminalinize Git Aşağıdaki Komutları Girin
 
-`git clone <Github Depo URL'niz>`
+`git clone <Github Fork URL'niz>`
 
 Şimdi Bot Dizinine Taşının
 
