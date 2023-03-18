@@ -69,7 +69,7 @@ def second_process(message):
  
 
 bot.infinity_polling()
-bo
+
 
 
 
